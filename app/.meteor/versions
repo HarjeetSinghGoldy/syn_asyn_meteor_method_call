@@ -46,7 +46,7 @@ minimongo@1.0.17
 mobile-status-bar@1.0.12
 modules@0.6.5
 modules-runtime@0.6.5
-momentjs:moment@2.10.6
+momentjs:moment@2.15.1
 momentjs:twix@0.9.0
 mongo@1.1.9_1
 mongo-id@1.0.5
